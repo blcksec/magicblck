@@ -5,13 +5,4 @@
 	</a>
 	<br>
 </div>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-Explanation: https://css-tricks.com/custom-styles-in-github-readmes/
+Explanation: https://raw.githubusercontent.com/blcksec/magicblck/magic/header.svg
